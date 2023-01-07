@@ -37,8 +37,8 @@ Network        | Dataset        | Accuracy (%)   | # Linear layers   |
 ---------------|----------------|----------------|-------------------|
 LiNL-MLP       | CIFAR-10       | 68.10 ± 0.17   | 1                 |
 LiNL-AlexNet   | CIFAR-10       | 87.71 ± 0.08   | 2                 |
-LiNL-VGG16     | CIFAR-10       | 93.70 ± 0.01   | 3                 |
-LiNL-ResNet18  | CIFAR-10       | 92.43 ± 0.14   | 3                 |
 LiNL-AlexNet   | ImageNet       | 57.36 ± 0.13   | 1                 |
+LiNL-VGG16     | CIFAR-10       | 93.70 ± 0.01   | 3                 |
 LiNL-VGG16     | ImageNet       | 72.58 ± 0.08   | 1                 |
+LiNL-ResNet18  | CIFAR-10       | 92.43 ± 0.14   | 3                 |
 LiNL-ResNet18  | ImageNet       | 69.43 ± 0.09   | 3                 |

@@ -33,17 +33,17 @@ python main.py --task <CIFAR-10 or ImageNet> --network <MLP or AlexNet or VGG16 
 ## Results
 Our model achieves the following performance on: 
 
-|Dataset : CIFAR-10| |||
-| Network       | Dataset        | Accuracy (%)   | # Linear layers   |
-|---------------|----------------|----------------|-------------------|
-| LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
-| MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
-| LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
-| MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
-| LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
-| MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
-| LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
-| MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
+|Dataset : CIFAR-10||
+Network       | Dataset        | Accuracy (%)   | # Linear layers   |
+--------------|----------------|----------------|-------------------|
+LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
+MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
+LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
+MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
+LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
+MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
+LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
+MLP           | CIFAR-10       | 67.68 ± 0.15   | -                 |
 
 *FMNISTnet : 32C5-P2-64C5-P2-600-10  
 *CIFARnet : 64C5-128C5-P2-256C5-P2-512C5-256C5-1024-512-10

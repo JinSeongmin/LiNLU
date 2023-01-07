@@ -33,7 +33,7 @@ python main.py --task <CIFAR-10 or ImageNet> --network <MLP or AlexNet or VGG16 
 ## Results
 Our model achieves the following performance on: 
 
-|Dataset : CIFAR-10||
+|             | Dataset : CIFAR-10                                 ||
 Network       | Dataset        | Accuracy (%)   | # Linear layers   |
 --------------|----------------|----------------|-------------------|
 LiNL-MLP      | CIFAR-10       | 68.10 ± 0.17   | 1                 |
